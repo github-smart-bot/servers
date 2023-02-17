@@ -1,0 +1,12 @@
+{
+  "name": "نمایش لحظه‌ای آلودگی هوای تهران",
+  "code": "/air_pollution",
+  "recommendation": "آلودگی تهران",
+  "api": "https://airnow.tehran.ir/",
+  "key1": "ContentPlaceHolder1_lblAqi3h",
+  "join1": "درصد لحظه‌ای آلودگی هوای تهران: ",
+  "and1": "\n",
+  "key2": "ContentPlaceHolder1_lblAqi3hDesc",
+  "join2": "وضعیت ",
+  "and2": "است"
+}
